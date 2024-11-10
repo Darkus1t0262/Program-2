@@ -1,0 +1,5 @@
+C:\Users\josue\Documents\GitHub\Program-2\Datetime\out\Datetime.exe
+C:\Users\josue\Documents\GitHub\Program-2\Datetime\out\Datetime.dll
+C:\Users\josue\Documents\GitHub\Program-2\Datetime\out\Datetime.deps.json
+C:\Users\josue\Documents\GitHub\Program-2\Datetime\out\Datetime.runtimeconfig.json
+C:\Users\josue\Documents\GitHub\Program-2\Datetime\out\Datetime.pdb
