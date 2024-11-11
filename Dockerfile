@@ -5,14 +5,14 @@ FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 WORKDIR /app
 
 # Copy the .csproj file and restore any dependencies (via dotnet restore)
-COPY *.csproj ./
+COPY Datetime/*.csproj ./
 RUN dotnet restore
 
 # Copy the rest of the application code
-COPY . ./
+COPY Datetime ./Datetime
 
 # Publish the app to the /out directory (this will be the final build output)
-RUN dotnet publish -c Release -o out
+RUN dotnet publish Datetime/ -c Release -o out
 
 # Use the official .NET 8 runtime image to run the app
 FROM mcr.microsoft.com/dotnet/aspnet:8.0 AS runtime
@@ -24,4 +24,4 @@ WORKDIR /app
 COPY --from=build /app/out .
 
 # Set the entry point for the container to run the app
-ENTRYPOINT dotnet Datetime.dll
+ENTRYPOINT ["dotnet", "Datetime/Datetime.dll"]
