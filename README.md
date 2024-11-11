@@ -27,3 +27,5 @@ Before you begin, ensure you have the following installed on your local machine:
 
 2. Download from Dockerhub
 docker run -p 8000:8000 --name date_time darkjus/program-2
+
+![Alt text]("C:\Users\josue\Pictures\Screenshots\Screenshot 2024-11-11 174321.png")
