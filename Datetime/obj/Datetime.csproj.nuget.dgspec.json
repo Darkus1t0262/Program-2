@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\josue\\Documents\\GitHub\\Program-2\\Datetime\\Datetime.csproj": {}
+    "C:\\Users\\josue\\Documents\\GitHub\\Program-2\\Datetime\\Datetime.csproj": {}
   },
   "projects": {
-    "c:\\Users\\josue\\Documents\\GitHub\\Program-2\\Datetime\\Datetime.csproj": {
+    "C:\\Users\\josue\\Documents\\GitHub\\Program-2\\Datetime\\Datetime.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\josue\\Documents\\GitHub\\Program-2\\Datetime\\Datetime.csproj",
+        "projectUniqueName": "C:\\Users\\josue\\Documents\\GitHub\\Program-2\\Datetime\\Datetime.csproj",
         "projectName": "Datetime",
-        "projectPath": "c:\\Users\\josue\\Documents\\GitHub\\Program-2\\Datetime\\Datetime.csproj",
+        "projectPath": "C:\\Users\\josue\\Documents\\GitHub\\Program-2\\Datetime\\Datetime.csproj",
         "packagesPath": "C:\\Users\\josue\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\josue\\Documents\\GitHub\\Program-2\\Datetime\\obj\\",
+        "outputPath": "C:\\Users\\josue\\Documents\\GitHub\\Program-2\\Datetime\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\josue\\AppData\\Roaming\\NuGet\\NuGet.Config"
