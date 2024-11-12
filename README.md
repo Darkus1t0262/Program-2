@@ -28,4 +28,7 @@ Before you begin, ensure you have the following installed on your local machine:
 2. Download from Dockerhub
 docker run -p 8000:8000 --name date_time darkjus/program-2
 
-![Alt text]("C:\Users\josue\Pictures\Screenshots\Screenshot 2024-11-11 174321.png")
+## Screenshot Railway
+
+![image](https://github.com/user-attachments/assets/3418c347-e0c3-4f3c-9181-58a7b58e535c)
+
